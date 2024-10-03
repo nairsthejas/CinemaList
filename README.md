@@ -1,1 +1,1 @@
-# CinemaList
+# Cinemaniac
